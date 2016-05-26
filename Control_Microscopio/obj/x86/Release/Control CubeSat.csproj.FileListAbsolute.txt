@@ -1,0 +1,8 @@
+C:\Users\juranga\Desktop\Control PC\ReadSerial\obj\x86\Release\ReadSerial.Form1.resources
+C:\Users\juranga\Desktop\Control PC\ReadSerial\obj\x86\Release\ReadSerial.Properties.Resources.resources
+C:\Users\juranga\Desktop\Control PC\ReadSerial\obj\x86\Release\Control CubeSat.csproj.GenerateResource.Cache
+C:\Users\javier.uranga\Desktop\Control PC\ReadSerial\obj\x86\Release\ReadSerial.Form1.resources
+C:\Users\javier.uranga\Desktop\Control PC\ReadSerial\obj\x86\Release\ReadSerial.FORMS.frmCameraConfig.resources
+C:\Users\javier.uranga\Desktop\Control PC\ReadSerial\obj\x86\Release\ReadSerial.Properties.Resources.resources
+C:\Users\javier.uranga\Desktop\Control PC\ReadSerial\obj\x86\Release\Control CubeSat.csproj.GenerateResource.Cache
+C:\Users\javier.uranga\Desktop\Control PC\ReadSerial\obj\x86\Release\Control CubeSat.csprojResolveAssemblyReference.cache
